@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mosam/static/css/main.e297030c.css",
+    "main.js": "/mosam/static/js/main.61f04272.js",
+    "static/js/453.63261c35.chunk.js": "/mosam/static/js/453.63261c35.chunk.js",
+    "index.html": "/mosam/index.html",
+    "main.e297030c.css.map": "/mosam/static/css/main.e297030c.css.map",
+    "main.61f04272.js.map": "/mosam/static/js/main.61f04272.js.map",
+    "453.63261c35.chunk.js.map": "/mosam/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e297030c.css",
+    "static/js/main.61f04272.js"
+  ]
+}
